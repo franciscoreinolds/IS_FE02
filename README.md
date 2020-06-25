@@ -1,5 +1,5 @@
-# IS_FE03
-3rd Assignment - Semantics Interoperabity ( IS )
+# IS_FE02
+2nd Assignment - Semantics Interoperabity ( IS )
 
 ## Objective
 
